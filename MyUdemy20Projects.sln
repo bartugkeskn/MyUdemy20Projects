@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_EntityFrameworkDbF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3_EntityFrameworkStatistics", "Project3_EntityFrameworkStatistics\Project3_EntityFrameworkStatistics.csproj", "{FF2CD3CC-15A1-4EA3-87F1-AE3870ED1B3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_EntityFrameworkCodeFirstMovie", "Project4_EntityFrameworkCodeFirstMovie\Project4_EntityFrameworkCodeFirstMovie.csproj", "{96AF2E45-2BCE-4720-9F2B-AD92F6025D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FF2CD3CC-15A1-4EA3-87F1-AE3870ED1B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF2CD3CC-15A1-4EA3-87F1-AE3870ED1B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF2CD3CC-15A1-4EA3-87F1-AE3870ED1B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96AF2E45-2BCE-4720-9F2B-AD92F6025D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AF2E45-2BCE-4720-9F2B-AD92F6025D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AF2E45-2BCE-4720-9F2B-AD92F6025D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AF2E45-2BCE-4720-9F2B-AD92F6025D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
